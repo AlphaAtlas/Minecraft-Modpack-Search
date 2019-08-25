@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Search",
+            "request": "launch",
+            "mainClass": "Search.Search",
+            "projectName": "CurseForgeSearch",
+            "args": "-sun.net.client.defaultReadTimeout=80000 -sun.net.client.defaultConnectTimeout=19000"
+        }
+    ]
+}
